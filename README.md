@@ -1,2 +1,2 @@
 # portfolio
-This is my personalportfolio website built usingHTML &amp; CSS .
+This is my personalportfolio website built using HTML &amp; CSS .
